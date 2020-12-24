@@ -1,0 +1,11 @@
+[package]
+name = "util"
+version = "0.1.0"
+authors = ["Alec Snyder <linuxbash8@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+
+[lib]
+name = "util"
+path = "util.rs"
